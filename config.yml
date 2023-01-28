@@ -1,19 +1,20 @@
 baseURL: http://localhost:1313
 title: 小电动的大电池
-paginate: 5
+paginate: 10
 theme: PaperMod
-copyright: 'Copyright © 2023 Billy Yang. Contents licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</a>'
+copyright: 'Copyright © 2023 Billy Yang. Contents licensed under CC BY-NC-SA 4.0 '
 
 languageCode: zh-cn
 hasCJKLanguage: true
 defaultContentLanguage: zh
-disqusShortName: handsomexdd1024-blog
+# disqusShortName: handsomexdd1024-blog
 enableEmoji: true
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 小电动的大电池
-  description: "ExampleSite description"
-  keywords: [Blog, Portfolio, PaperMod]
+  description: "小电动的个人博客"
+  keywords: [Blog, Computer, IT, Life]
   author: 你为什么骑着小电动
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -36,22 +37,22 @@ params:
   comments: true
   hidemeta: false
   hideSummary: false
-  showtoc: false
+  showtoc: true
   tocopen: false
 
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
-    favicon16x16: "<link / abs url>"
-    favicon32x32: "<link / abs url>"
-    apple_touch_icon: "<link / abs url>"
-    safari_pinned_tab: "<link / abs url>"
+    favicon:
+    favicon16x16:
+    favicon32x32:
+    apple_touch_icon:
+    safari_pinned_tab:
 
   label:
     text: "主页 🏠"
-    icon: /apple-touch-icon.png
-    iconHeight: 35
+    # icon:
+    # iconHeight: 35
 
   # profile-mode
   profileMode:
@@ -73,9 +74,9 @@ params:
         url: about
 
   # home-info mode
-  homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+  # homeInfoParams:
+  #   Title: "Hi there \U0001F44B"
+  #   Content: Welcome to my blog
 
   socialIcons:
     # - name: twitter
@@ -86,6 +87,11 @@ params:
       url: "https://github.com/handsomexdd1024"
     - name: email
       url: "mailto:handsomexdd1024@gmail.com"
+    - name: bilibili
+      url: "https://space.bilibili.com/106577936"
+    - name: keybase
+      url: "https://keybase.io/handsomexdd1024"
+
 
   # analytics:
   #   google:
@@ -139,7 +145,7 @@ menu:
       url: /series/
       weight: 30
     - name: 全部文章
-      url: /posts/
+      url: /archives/
       weight: 40
     - name: 友情链接
       url: /friends/
