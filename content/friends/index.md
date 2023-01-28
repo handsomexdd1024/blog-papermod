@@ -6,3 +6,13 @@ comments: false
 ---
 
 **博客正在建设中，欢迎交换友情链接！mua~**
+
+---
+
+### 道难的博客
+
+[daonan233.github.io](https://daonan233.github.io)
+
+{{< figure src="daonan.png" height=200 width=200 >}}
+
+---
