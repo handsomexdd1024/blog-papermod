@@ -13,6 +13,6 @@ comments: false
 
 [daonan233.github.io](https://daonan233.github.io)
 
-{{< figure src="daonan.png" height=200 width=200 >}}
+{{< figure src="https://assets.motorscooter.run/icons/daonan.jpg" height=200 width=200 >}}
 
 ---

@@ -10,6 +10,9 @@ defaultContentLanguage: zh
 # disqusShortName: handsomexdd1024-blog
 enableEmoji: true
 
+permalink:
+  posts: /:year/:month/:filename
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: 小电动的大电池
@@ -71,7 +74,7 @@ params:
       - name: 朋友们
         url: friends
       - name: 关于我
-        url: about
+        url: me
 
   # home-info mode
   # homeInfoParams:
@@ -129,9 +132,9 @@ taxonomies:
 
 menu:
   main:
-    - name: 关于我
+    - name: 关于本站
       url: /about/
-      weight: 1
+      weight: -1
     - identifier: categories
       name: 文章分类
       url: /categories/
