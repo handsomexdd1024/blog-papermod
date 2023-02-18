@@ -19,7 +19,7 @@ comments: false
 
 ### fa_555's blog
 
-[fa555.github.io](fa555.github.io)
+[fa555.github.io](https://fa555.github.io)
 
 {{< figure src="https://assets.motorscooter.run/icons/fa555.jpg" height=200 width=200 >}}
 
