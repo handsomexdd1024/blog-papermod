@@ -16,3 +16,10 @@ comments: false
 {{< figure src="https://assets.motorscooter.run/icons/daonan.jpg" height=200 width=200 >}}
 
 ---
+
+### fa_555's blog
+
+[fa555.github.io](fa555.github.io)
+
+{{< figure src="https://assets.motorscooter.run/icons/fa555.jpg" height=200 width=200 >}}
+
