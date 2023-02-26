@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/handsomexdd1024
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://motorscooter.run
+  * I am handsomexdd1024 (https://keybase.io/handsomexdd1024) on keybase.
+  * I have a public key ASBUSJMMEaJybxSmq27iqayQO1bEz-E4mijeOLXE7LTtEQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120517a050db7d0fa6e3295dbcc009e305683aa432cab1ffa5f880ba49ca3b33b040a",
+      "host": "keybase.io",
+      "kid": "01205448930c11a2726f14a6ab6ee2a9ac903b56c4cfe1389a28de38b5c4ecb4ed110a",
+      "uid": "47180c0ff9c72e41e4fadc388210a819",
+      "username": "handsomexdd1024"
+    },
+    "merkle_root": {
+      "ctime": 1677389575,
+      "hash": "172bcc5bf190d19aced8815917700ec4d40085cce4263dede27661bd5423e4aaaaf6b13210d4f489ccb695c64931df35377b4acbbb15550f7e5c0703af278f1a",
+      "hash_meta": "b00df4d4ff1422d5f3cf0a1f7b35487490c0f130d01217a96e21ce2aad76ea7e",
+      "seqno": 24111485
+    },
+    "service": {
+      "entropy": "p2B/bhcgYiv/ACwhRo/7HrjU",
+      "hostname": "motorscooter.run",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1677389595,
+  "expire_in": 504576000,
+  "prev": "01590a83262d4d7d5ec149b82ecd6c3d2df620c1f4e5addc24d33d83c46f3f1b",
+  "seqno": 28,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgVEiTDBGicm8Upqtu4qmskDtWxM/hOJoo3ji1xOy07REKp3BheWxvYWTESpcCHMQgAVkKgyYtTX1ewUm4Ls1sPS32IMH05a3cJNM9g8RvPxvEIIwxyrxYXfRfbfVjoDtquRH5hQQ7k5Qp/m9077JX9iNKAgHCo3NpZ8RAv/zG7AIopQdQX9jWPjWON4BXHlg9byG2j9au1D/oTjOvVB3bf2j6/xHSdVns8lU8rGAVTOMZ8LUMlsRPPZCcAKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMOvU/zJe+VK7aNQYyOol43UJ6WH2vIIrpu/PMxZt7YEo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/handsomexdd1024
+
+==================================================================
